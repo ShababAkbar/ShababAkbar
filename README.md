@@ -56,8 +56,8 @@
 
 ## 📫 Connect With Me  
 - 🌐 [Shabab Development Community](https://shabab-development-community.vercel.app/)  
-- 💼 LinkedIn (https://www.linkedin.com/in/syed-shabab-akbar-b58411279/)  
-- 📧 Email: *syedshababakbarshah@gmail.com *  
+- 💼 LinkedIn https://www.linkedin.com/in/syed-shabab-akbar-b58411279/
+- 📧 Email: syedshababakbarshah@gmail.com 
 
 ---
 
